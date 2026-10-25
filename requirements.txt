@@ -1,0 +1,7 @@
+psutils
+torch
+torchvision
+scipy
+matplotlib
+numpy
+PyQt5
